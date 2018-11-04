@@ -1,0 +1,64 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {
+        "no-unused-expression": true
+    },
+    "rules": {
+        "no-console": false,
+        "eofline": false,
+        "quotemark": [
+            true,
+            "single"
+        ],
+        "indent": false,
+        "member-access": [
+            false
+        ],
+        "ordered-imports": [
+            false
+        ],
+        "max-line-length": [
+            false,
+            150
+        ],
+        "member-ordering": [
+            false
+        ],
+        "curly": false,
+        "interface-name": [
+            false
+        ],
+        "array-type": [
+            false
+        ],
+        "no-empty-interface": false,
+        "no-empty": false,
+        "arrow-parens": false,
+        "object-literal-sort-keys": false,
+        "no-unused-expression": false,
+        "max-classes-per-file": [
+            false
+        ],
+        "variable-name": [
+            false
+        ],
+        "one-line": [
+            false
+        ],
+        "one-variable-per-declaration": [
+            false
+        ],
+        "ban-types": [
+            true,
+            ["Object", "Avoid using the `Object` type. Did you mean `object`?"],
+            ["Boolean", "Avoid using the `Boolean` type. Did you mean `boolean`?"],
+            ["Number", "Avoid using the `Number` type. Did you mean `number`?"],
+            ["String", "Avoid using the `String` type. Did you mean `string`?"],
+            ["Symbol", "Avoid using the `Symbol` type. Did you mean `symbol`?"],
+        ]
+    },
+    "rulesDirectory": []
+}
