@@ -16,8 +16,8 @@ Awesome repositories are usually targetted at certain things like - programming 
 ## Community
 - <a href="https://gitter.im/" target="_blank" alt="gitter">Gitter</a> - if you ever looked for a programmers chat where you could post a question and instantly get an answer (not like <a href="https://stackoverflow.com" target="_blank" alt="stackoverflow">stackoverflow</a>), I recommend joining channels: 
   - <a href="https://gitter.im/Microsoft/TypeScript" target="_blank" alt="typescript gitter">TypeScript</a>
-  - <a href="https://gitter.im/angular/angular" target="_blank" alt="angular gitter"></a>
-  - <a href="https://gitter.im/nodejs/node" target="_blank" alt="node gitter"></a>
+  - <a href="https://gitter.im/angular/angular" target="_blank" alt="angular gitter">Angular</a>
+  - <a href="https://gitter.im/nodejs/node" target="_blank" alt="node gitter">Node.js</a>
 
 ## Typescript
 
