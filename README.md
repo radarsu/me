@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-	This repository purpose is to share resources interesting for TypeScript, Node.js and JavaScript full-stack developers. You could call it personal version of <a href="https://github.com/sindresorhus/awesome" target="_blank" alt="awesome">Awesome</a>.
+	<strong>Personal version of <a href="https://github.com/sindresorhus/awesome" target="_blank" alt="awesome">Awesome</a>.</strong>
+</p>
+
+<p align="center">
+	This repository purpose is to share resources interesting for TypeScript, Node.js and JavaScript full-stack developers.
 </p>
 
 ## Description
