@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/radarsu/<%= libName %>/" target="blank" alt="<%= libName %>"><img src="https://github.com/radarsu/<%= libName %>/blob/master/assets/logo.png?raw=true" alt="<%= libName %> logo" /></a><br/>
+    <a href="https://github.com/radarsu/me/" target="blank" alt="me"><img src="https://github.com/radarsu/me/blob/master/assets/logo.png?raw=true" alt="me logo" /></a><br/>
 </p>
 
 <p align="center">
