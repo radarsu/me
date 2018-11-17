@@ -26,3 +26,20 @@ Awesome repositories are usually targetted at certain things like - programming 
 ## Angular
 - <strong><a href="https://malcoded.com/posts/angular-fundamentals-modules" target="_blank" alt="angular modules explained">Angular Modules</a></strong> - definitions of angular modules `declaration`, `imports`, `providers` and `exports`.
 - <strong><a href="https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7" target="_blank" alt="angular app structure">App structure</a></strong> - angular or any other module-based application directory structure.
+
+## Practices
+- <strong>Shared vs Common</strong> - shared for directory name, common for library names.
+- `// short comments lowercase`
+- `/* Star comments upperFirst with a dot in the end. */`
+- place a line breaks before and after "comment block":
+```ts
+if (true) {
+
+	// comment
+	doSomething();
+
+	// next comment
+	doSomethingElse();
+
+}
+```
