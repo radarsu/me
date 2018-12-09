@@ -45,11 +45,11 @@ if (true) {
 ```
 
 ## Performance
-- Fastest loop
+- Fastest loop:
 ```ts
 for (let i = array.length - 1; i >= 0; --i) {
 
 }
 ```
-- DOM
+- DOM:
   - appendChild better than innerHTML.
