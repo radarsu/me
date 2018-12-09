@@ -31,7 +31,7 @@ Awesome repositories are usually targetted at certain things like - programming 
 - <strong>Shared vs Common</strong> - shared for directory name, common for library names.
 - `// short comments lowercase`
 - `/* Star comments upperFirst with a dot in the end. */`
-- place a line breaks before and after "comment block":
+- Place a line breaks before and after "comment block":
 ```ts
 if (true) {
 
