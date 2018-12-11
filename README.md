@@ -51,5 +51,6 @@ for (let i = array.length - 1; i >= 0; --i) {
 
 }
 ```
+- `for of` better than `forEach`
 - DOM:
-  - appendChild better than innerHTML.
+  - appendChild better than innerHTML for small number of items, innerHTML overall better
