@@ -31,7 +31,7 @@ Awesome repositories are usually targetted at certain things like - programming 
 - <strong>Shared vs Common</strong> - shared for directory name, common for library names.
 - `// short comments lowercase`
 - `/* Star comments upperFirst with a dot in the end. */`
-- place a line breaks before and after "comment block":
+- Place a line breaks before and after "comment block":
 ```ts
 if (true) {
 
@@ -44,3 +44,14 @@ if (true) {
 }
 ```
 - <strong><a href="https://graphql.org/learn/authorization/" target="_blank" alt="angular modules explained">GraphQL authorization</a></strong>.
+
+## Performance
+- Fastest loop:
+```ts
+for (let i = array.length - 1; i >= 0; --i) {
+
+}
+```
+- `for of` better than `forEach`
+- DOM:
+- appendChild better than innerHTML for small number of items, innerHTML overall better for whole content rendering
