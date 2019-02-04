@@ -43,7 +43,7 @@ if (true) {
 
 }
 ```
-- <strong><a href="https://graphql.org/learn/authorization/" target="_blank" alt="angular modules explained">GraphQL authorization</a></strong>.
+- <strong><a href="https://graphql.org/learn/authorization/" target="_blank" alt="angular modules explained">GraphQL authorization</a></strong>
 
 ## Performance
 - Fastest loop:
