@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<strong>Personal version of <a href="https://github.com/sindresorhus/awesome" target="_blank" alt="awesome">Awesome</a>.</strong>
+	<strong>Personal version of <a href="https://github.com/sindresorhus/awesome" target="_blank" alt="awesome">Awesome</a> and best practices in short.</strong>
 </p>
 
 <p align="center">
@@ -44,6 +44,7 @@ if (true) {
 }
 ```
 - <strong><a href="https://graphql.org/learn/authorization/" target="_blank" alt="angular modules explained">GraphQL authorization</a></strong>
+- <a href="https://tailwindcss.com/docs/" target="_blank" alt="utility first tailwind">Utility-first CSS</a> &gt; BEM vs SMACSS vs OOCSS.
 
 ## Performance
 - Fastest loop:
