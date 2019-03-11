@@ -20,6 +20,7 @@ Awesome repositories are usually targetted at certain things like - programming 
   - <strong><a href="https://gitter.im/nodejs/node" target="_blank" alt="node gitter">Node.js</a></strong>
 
 ## Typescript
+- <strong><a href=https://github.com/torokmark/design_patterns_in_typescript" target="_blank" alt="typescript design patterns">Design patterns</a></strong>.
 
 ## Node.js
   
@@ -28,7 +29,6 @@ Awesome repositories are usually targetted at certain things like - programming 
 - <strong><a href="https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7" target="_blank" alt="angular app structure">App structure</a></strong> - angular or any other module-based application directory structure.
 
 ## Practices
-- <strong>Shared vs Common</strong> - shared for directory name, common for library names.
 - `// short comments lowercase`
 - `/* Star comments upperFirst with a dot in the end. */`
 - Place a line breaks before and after "comment block":
@@ -46,6 +46,14 @@ if (true) {
 - <strong><a href="https://graphql.org/learn/authorization/" target="_blank" alt="angular modules explained">GraphQL authorization</a></strong>
 - <a href="https://tailwindcss.com/docs/" target="_blank" alt="utility first tailwind">Utility-first CSS</a> &gt; BEM vs SMACSS vs OOCSS.
 - <a href="http://chir.ag/projects/name-that-color/#722E75" target="_blank" alt="tool for color naming">Color naming</a>.
+
+## Naming
+- <strong>Attribute vs Property</strong> - attribute for xml, properties for objects.
+- <strong>Common vs Shared</strong> - common for library names, shared for directory name.
+- <strong>Controller vs Resolver vs Route</strong> - controller for REST, resolver for GraphQL, route for analysis of url, query and params and pointing to one of previously listed.
+- <strong>Entity vs Model</strong> - entity for instances, model for coded stuff.
+- <strong>Module vs Package</strong> - module for internal stuff, package for external libraries.
+- <strong>Page vs View</strong> - page for client-side, view for server-side.
 
 ## Performance
 - Fastest loop:
