@@ -20,7 +20,7 @@ Awesome repositories are usually targetted at certain things like - programming 
   - <strong><a href="https://gitter.im/nodejs/node" target="_blank" alt="node gitter">Node.js</a></strong>
 
 ## Typescript
-- <strong><a href=https://github.com/torokmark/design_patterns_in_typescript" target="_blank" alt="typescript design patterns">Design patterns</a></strong>.
+- <strong><a href="https://github.com/torokmark/design_patterns_in_typescript" target="_blank" alt="typescript design patterns">Design patterns</a></strong>.
 
 ## Node.js
   
