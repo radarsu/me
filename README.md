@@ -53,7 +53,7 @@ if (true) {
 - <strong>Controller vs Resolver vs Route</strong> - controller for REST, resolver for GraphQL, route for analysis of url, query and params and pointing to one of previously listed.
 - <strong>Entity vs Model</strong> - entity for instances, model for coded stuff.
 - <strong>Module vs Package</strong> - module for internal stuff, package for external libraries.
-- <strong>Page vs View</strong> - page for client-side, view for server-side.
+- <strong>Page vs View</strong> - view, as sometimes one view can be part of another view.
 
 ## Performance
 - Fastest loop:
