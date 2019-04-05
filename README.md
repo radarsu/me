@@ -49,7 +49,7 @@ if (true) {
 
 ## Naming
 - <strong>Attribute vs Property</strong> - attribute for xml, properties for objects.
-- <strong>Common vs Shared</strong> - common for library names, shared for directory name.
+- <strong>Common vs Shared vs Partials</strong> - common for library names, shared for directory name, don't use partials.
 - <strong>Controller vs Resolver vs Route</strong> - controller for REST, resolver for GraphQL, route for analysis of url, query and params and pointing to one of previously listed.
 - <strong>Entity vs Model</strong> - entity for instances, model for coded stuff.
 - <strong>Module vs Package</strong> - module for internal stuff, package for external libraries.
