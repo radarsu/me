@@ -81,10 +81,12 @@ for (let i = array.length - 1; i >= 0; --i) {
   - <a href="https://www.fontsquirrel.com/fonts/fira-code" target="_blank">FiraCode Font</a>
   - Windows Subsystem Linux Ubuntu (Microsoft Store)
 
-## Shell (Windows Subsystem Linux)
-`sudo apt install make build-essential`
-
-zsh, slimzsh & oh my zsh
+## Windows Subsystem Linux
+  - `sudo apt install build-essential make`
+  - zsh, slimzsh & oh my zsh
+  
+## Windows PowerShell
+  - Turn on Hyper-V for Docker: `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All`
 
 ## Development
   - <a href="https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe" target="_blank">Docker for Windows</a>
@@ -92,7 +94,7 @@ zsh, slimzsh & oh my zsh
   - <a href="https://code.visualstudio.com/insiders/" target="_blank">VS CODE Insiders</a>
 
 ## Node
-`npm i -g eslint lerna nodemon nps pm2 ts-node tslint typescript`
+  - `npm i -g eslint lerna nodemon nps pm2 ts-node tslint typescript`
 
 ## VS Code
   - Better comments
