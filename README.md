@@ -83,7 +83,7 @@ for (let i = array.length - 1; i >= 0; --i) {
   - Windows Subsystem Linux Ubuntu (Microsoft Store)
 
 ## Windows Subsystem Linux
-  - `sudo apt install build-essential make`
+  - `sudo apt install build-essential docker docker-compose make`
   - zsh, slimzsh & oh my zsh
   
 ## Windows PowerShell
