@@ -66,3 +66,43 @@ for (let i = array.length - 1; i >= 0; --i) {
 
 ## DOM
 - appendChild better than innerHTML only if you don't want content to lose events etc., innerHTML overall better for whole content rendering
+
+# Windows Initial Setup
+
+## Utility
+7-zip
+Filezilla
+Google Chrome
+Greenshot
+Microsoft Office
+VLC Media Player
+
+## System
+FiraCode Font
+Windows Subsystem Linux Ubuntu
+
+## Shell (Windows Subsystem Linux)
+sudo apt install make build-essential
+zsh, slimzsh & oh my zsh
+
+## Development
+Nodepad++ [set all text-files to be opened by default]
+VS CODE Insiders
+
+## Node
+npm i -g eslint lerna nodemon nps pm2 tslint
+
+## VS Code
+Better comments
+Bracker Pair Colorizer 2
+Cobalt2
+ESlint
+Gitlens
+Markdown all in one
+Material Icon Theme
+Prettier
+Remove Development
+Sort js object keys
+Toggle quotes
+TSlint
+TypeScript Hero
