@@ -13,7 +13,7 @@
 ## Description
 Awesome repositories are usually targetted at certain things like - programming language, technology, books, etc. This one is composition of completely different stuff that's just personal, but might be useful for any full-stack developer interested in JavaScript, Node.js, Typescript and Angular - or simply working on same platform as I am (currently Windows).
 
-## Table of Contents
+## Content
 - [Community](#community)
   - [Gitter](#gitter)
 - [Performance](#performance)
