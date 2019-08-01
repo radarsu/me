@@ -70,16 +70,16 @@ for (let i = array.length - 1; i >= 0; --i) {
 # Windows Initial Setup
 
 ## Utility
-  - 7-zip
-  - Filezilla
-  - Google Chrome
-  - Greenshot
+  - <a href="https://www.7-zip.org/" target="_blank">7-zip</a>
+  - <a href="https://filezilla-project.org/" target="_blank">Filezilla</a>
+  - <a href="https://www.google.com/intl/en/chrome/" target="_blank">Google Chrome</a>
+  - <a href="https://getgreenshot.org/" target="_blank">Greenshot</a>
   - Microsoft Office
-  - VLC Media Player
+  - <a href="https://www.videolan.org/" target="_blank">VLC Media Player</a>
 
 ## System
-  - FiraCode Font
-  - Windows Subsystem Linux Ubuntu
+  - <a href="https://www.fontsquirrel.com/fonts/fira-code" target="_blank">FiraCode Font</a>
+  - Windows Subsystem Linux Ubuntu (Microsoft Store)
 
 ## Shell (Windows Subsystem Linux)
 `sudo apt install make build-essential`
@@ -87,8 +87,9 @@ for (let i = array.length - 1; i >= 0; --i) {
 zsh, slimzsh & oh my zsh
 
 ## Development
-  - Nodepad++ [set all text-files to be opened by default]
-  - VS CODE Insiders
+  - <a href="https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe" target="_blank">Docker for Windows</a>
+  - <a href="https://notepad-plus-plus.org/download/" target="_blank">Nodepad++</a> [set all text-files to be opened by default]
+  - <a href="https://code.visualstudio.com/insiders/" target="_blank">VS CODE Insiders</a>
 
 ## Node
 `npm i -g eslint lerna nodemon nps pm2 ts-node tslint typescript`
