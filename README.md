@@ -95,7 +95,7 @@ for (let i = array.length - 1; i >= 0; --i) {
   - <a href="https://code.visualstudio.com/insiders/" target="_blank">VS CODE Insiders</a>
 
 ## Git, Node & Npm
-  - `npm i -g eslint lerna nodemon nps pm2 ts-node tslint typescript`
+  - `npm i -g eslint lerna nodemon nps pm2 ts-node tslint typescript webpack`
   - `npm login`
   - `git config --global user.name "Artur Kurowski"`
   - `git config --global user.email "radarsu@gmail.com"`
@@ -127,4 +127,7 @@ for (let i = array.length - 1; i >= 0; --i) {
 
 # docker
 export DOCKER_HOST=localhost:2375
+
+# npm
+export NPM_TOKEN="23c31450-5b72-4479-bde3-4e5df50da2d9"
 ```
