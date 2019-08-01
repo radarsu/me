@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-	<strong>Personal version of <a href="https://github.com/sindresorhus/awesome" target="_blank" alt="awesome">Awesome</a>, best practices & setups in short.</strong>
+	<strong>Personal version of <a href="https://github.com/sindresorhus/awesome" target="_blank" alt="awesome">Awesome</a>, best practices & setups.</strong>
 </p>
 
 <p align="center">
-	This repository purpose is to share resources interesting for TypeScript, Node.js and JavaScript full-stack developers.
+	The purpose of this repository is to share resources and setups interesting for TypeScript, Node.js and JavaScript full-stack developers.
 </p>
 
 # General
 
 ## Description
-Awesome repositories are usually targetted at certain things like - programming language, technology, books, etc. This one is composition of completely different stuff that's just personal, but might be useful for any full-stack developer interested in JavaScript, Node.js, Typescript and Angular.
+Awesome repositories are usually targetted at certain things like - programming language, technology, books, etc. This one is composition of completely different stuff that's just personal, but might be useful for any full-stack developer interested in JavaScript, Node.js, Typescript and Angular - or simply working on same platform as I am (currently Windows).
 
 ## Community
 - <strong><a href="https://gitter.im/" target="_blank" alt="gitter">Gitter</a></strong> - if you ever looked for a programmers chat where you could post a question and instantly get an answer (not like <a href="https://stackoverflow.com" target="_blank" alt="stackoverflow">stackoverflow</a>), I recommend joining channels: 
@@ -30,7 +30,13 @@ Awesome repositories are usually targetted at certain things like - programming 
 
 ### Angular
 - <strong><a href="https://malcoded.com/posts/angular-fundamentals-modules" target="_blank" alt="angular modules explained">Angular Modules</a></strong> - definitions of angular modules `declaration`, `imports`, `providers` and `exports`.
-- <strong><a href="https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7" target="_blank" alt="angular app structure">App structure</a></strong> - angular or any other module-based application directory structure.
+- <strong><a href="https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7" target="_blank" alt="angular a
+    pplication structure">Application Structure</a></strong> - angular or any other module-based application directory structure.
+
+### Other
+- <a href="http://chir.ag/projects/name-that-color/#722E75" target="_blank" alt="tool for color naming">Color naming</a>
+- <strong><a href="https://graphql.org/learn/authorization/" target="_blank" alt="angular modules explained">GraphQL authorization</a></strong>
+- <a href="https://tailwindcss.com/docs/" target="_blank" alt="utility first tailwind">Utility-first CSS</a> &gt; BEM vs SMACSS vs OOCSS
 
 # Practices
 
@@ -56,14 +62,14 @@ if (true) {
 - <strong>Attribute vs Property</strong> - attribute for xml, properties for objects.
 - <strong>Common vs Shared vs Partials</strong> - common for library names, shared for directory name, don't use partials.
 - <strong>Controller vs Resolver vs Route</strong> - controller for REST, resolver for GraphQL, route for analysis of url, query and params and pointing to one of previously listed.
-- <strong>Entity vs Model</strong> - entity for instances, model for coded stuff.
+- <strong>Entity vs Model</strong> - use model, as it's part of MVC naming.
 - <strong>Module vs Package</strong> - module for internal stuff, package for external libraries.
-- <strong>Page vs View</strong> - use view, as sometimes one page/view may be part of another one.
+- <strong>Page vs View</strong> - use view, as sometimes one page/view may be part of another one (also it's part of MVC).
 
 ## Other
-- <strong><a href="https://graphql.org/learn/authorization/" target="_blank" alt="angular modules explained">GraphQL authorization</a></strong>
-- <a href="https://tailwindcss.com/docs/" target="_blank" alt="utility first tailwind">Utility-first CSS</a> &gt; BEM vs SMACSS vs OOCSS
-- <a href="http://chir.ag/projects/name-that-color/#722E75" target="_blank" alt="tool for color naming">Color naming</a>
+- When there is no certain logical order in elements, object keys or function call order - sort everything alphabetically.
+- Use semicolons, it's simply more popular (easier to copy code from documentations without need to adjust) and less error-prone.
+- Use trailing commas in arrays and after multiline object properties - it makes it easier to expand the code.
 
 # Performance
 - Fastest loop:
@@ -105,7 +111,7 @@ for (let i = array.length - 1; i >= 0; --i) {
 - <a href="https://code.visualstudio.com/insiders/" target="_blank">VS CODE Insiders</a>
 
 ## Git, Node & Npm
-- `npm i -g eslint lerna nodemon nps pm2 ts-node tslint typescript webpack`
+- `npm i -g eslint lerna nodemon nps pm2 prettier ts-node tldr tslint typescript windows-build-tools webpack`
 - `npm login`
 - `git config --global user.name "Artur Kurowski"`
 - `git config --global user.email "radarsu@gmail.com"`
