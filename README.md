@@ -15,18 +15,40 @@ Awesome repositories are usually targetted at certain things like - programming 
 
 ## Table of Contents
 - [Community](#community)
+  - [Gitter](#gitter)
 - [Performance](#performance)
+  - [Loops](#loops)
+  - [DOM](#dom)
 - [Practices](#practices)
+  - [Comments](#comments)
+  - [Naming](#naming)
+  - [Other](#other)
 - [Resources](#resources)
+  - [TypeScript](#comments)
+  - [NodeJS](#nodejs)
+  - [Angular](#angular)
+  - [Other](#other)
 - [Windows Setup](#windows-setup)
+  - [Tools](#tools)
+  - [System](#system)
+  - [Windows Subsystem Linux](#windows-subsystem-linux)
+  - [Windows PowerShell](#windows-powershell)
+  - [Git, Node, Npm](#git-node-npm)
+  - [Docker](#docker)
+  - [VS Code](#vs-code)
+  - [Run Commands (.rc)](#run-commands)
 
 # Community
+
+## Gitter
 - <strong><a href="https://gitter.im/" target="_blank" alt="gitter">Gitter</a></strong> - if you ever looked for a programmers chat where you could post a question and instantly get an answer (not like <a href="https://stackoverflow.com" target="_blank" alt="stackoverflow">stackoverflow</a>), I recommend joining channels: 
   - <strong><a href="https://gitter.im/Microsoft/TypeScript" target="_blank" alt="typescript gitter">TypeScript</a></strong>
   - <strong><a href="https://gitter.im/angular/angular" target="_blank" alt="angular gitter">Angular</a></strong>
   - <strong><a href="https://gitter.im/nodejs/node" target="_blank" alt="node gitter">Node.js</a></strong>
 
 # Performance
+
+## Loops
 - Fastest loop:
 ```ts
 for (let i = array.length - 1; i >= 0; --i) {
@@ -65,6 +87,7 @@ if (true) {
 - <strong>Entity vs Model</strong> - use model, as it's part of MVC naming.
 - <strong>Module vs Package</strong> - module for internal stuff, package for external libraries.
 - <strong>Page vs View</strong> - use view, as sometimes one page/view may be part of another one (also it's part of MVC).
+- <strong>Node.js vs NodeJS</strong> - Node.js, it's how it stands at their official page.
 
 ## Other
 - When there is no certain logical order in elements, object keys or function call order - sort everything alphabetically.
@@ -90,13 +113,16 @@ if (true) {
 
 # Windows Setup
 
-## Utility
+## Tools
 - <a href="https://www.7-zip.org/" target="_blank">7-zip</a>
+- <a href="https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe" target="_blank">Docker for Windows</a>
 - <a href="https://filezilla-project.org/" target="_blank">Filezilla</a>
 - <a href="https://www.google.com/intl/en/chrome/" target="_blank">Google Chrome</a>
 - <a href="https://getgreenshot.org/" target="_blank">Greenshot</a>
 - Microsoft Office
+- <a href="https://notepad-plus-plus.org/download/" target="_blank">Nodepad++</a> [set all text-files to be opened by default]
 - <a href="https://www.videolan.org/" target="_blank">VLC Media Player</a>
+- <a href="https://code.visualstudio.com/insiders/" target="_blank">VS CODE Insiders</a>
 
 ## System
 - BIOS (F10 during system boot): enable Virtualization Technology (VT)
@@ -110,12 +136,7 @@ if (true) {
 ## Windows PowerShell
 - Turn on Hyper-V for Docker: `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All`
 
-## Development
-- <a href="https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe" target="_blank">Docker for Windows</a>
-- <a href="https://notepad-plus-plus.org/download/" target="_blank">Nodepad++</a> [set all text-files to be opened by default]
-- <a href="https://code.visualstudio.com/insiders/" target="_blank">VS CODE Insiders</a>
-
-## Git, Node & Npm
+## Git, Node, Npm
 - `npm i -g eslint lerna nodemon nps pm2 prettier ts-node tldr tslint typescript windows-build-tools webpack`
 - `npm login`
 - `git config --global user.name "Artur Kurowski"`
