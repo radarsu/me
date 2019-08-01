@@ -83,6 +83,7 @@ for (let i = array.length - 1; i >= 0; --i) {
 
 ## Shell (Windows Subsystem Linux)
 `sudo apt install make build-essential`
+
 zsh, slimzsh & oh my zsh
 
 ## Development
