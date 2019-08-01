@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Cobalt2",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace"
+}
