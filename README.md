@@ -117,6 +117,7 @@ if (true) {
 - <a href="https://www.google.com/intl/en/chrome/" target="_blank">Google Chrome</a>
 - <a href="https://getgreenshot.org/" target="_blank">Greenshot</a>
 - Microsoft Office
+- <a href="https://napiprojekt.pl/download/" target="_blank">NapiProject</a>
 - <a href="https://notepad-plus-plus.org/download/" target="_blank">Nodepad++</a> [set all text-files to be opened by default]
 - <a href="https://www.videolan.org/" target="_blank">VLC Media Player</a>
 - <a href="https://code.visualstudio.com/insiders/" target="_blank">VS CODE Insiders</a>
