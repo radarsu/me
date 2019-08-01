@@ -90,6 +90,7 @@ if (true) {
 - <strong>Node.js vs NodeJS</strong> - Node.js, it's how it stands at their official page.
 
 ## Other
+- <strong>Convention over Configuration</strong> - prefer naming convetions over configuration of stuff. It often allows you to skip a lot of redundant code and data.
 - When there is no certain logical order in elements, object keys or function call order - sort everything alphabetically.
 - Use semicolons, it's simply more popular (easier to copy code from documentations without need to adjust) and less error-prone.
 - Use trailing commas in arrays and after multiline object properties - it makes it easier to expand the code.
