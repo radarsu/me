@@ -17,31 +17,28 @@ Awesome repositories are usually targetted at certain things like - programming 
 
 ## Table of Contents
 - [Community](#community)
+- [Performance](#performance)
+- [Practices](#practices)
 - [Resources](#resources)
+- [Windows Setup](#windows-setup)
 
-<a name="community"/></a>
 ## Community
 - <strong><a href="https://gitter.im/" target="_blank" alt="gitter">Gitter</a></strong> - if you ever looked for a programmers chat where you could post a question and instantly get an answer (not like <a href="https://stackoverflow.com" target="_blank" alt="stackoverflow">stackoverflow</a>), I recommend joining channels: 
   - <strong><a href="https://gitter.im/Microsoft/TypeScript" target="_blank" alt="typescript gitter">TypeScript</a></strong>
   - <strong><a href="https://gitter.im/angular/angular" target="_blank" alt="angular gitter">Angular</a></strong>
   - <strong><a href="https://gitter.im/nodejs/node" target="_blank" alt="node gitter">Node.js</a></strong>
 
-## Resources
+# Performance
+- Fastest loop:
+```ts
+for (let i = array.length - 1; i >= 0; --i) {
 
-### Typescript
-- <strong><a href="https://github.com/torokmark/design_patterns_in_typescript" target="_blank" alt="typescript design patterns">Design patterns</a></strong>
+}
+```
+- `for of` better than `forEach`
 
-### Node.js
-
-### Angular
-- <strong><a href="https://malcoded.com/posts/angular-fundamentals-modules" target="_blank" alt="angular modules explained">Angular Modules</a></strong> - definitions of angular modules `declaration`, `imports`, `providers` and `exports`.
-- <strong><a href="https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7" target="_blank" alt="angular a
-    pplication structure">Application Structure</a></strong> - angular or any other module-based application directory structure.
-
-### Other
-- <a href="http://chir.ag/projects/name-that-color/#722E75" target="_blank" alt="tool for color naming">Color naming</a>
-- <strong><a href="https://graphql.org/learn/authorization/" target="_blank" alt="angular modules explained">GraphQL authorization</a></strong>
-- <a href="https://tailwindcss.com/docs/" target="_blank" alt="utility first tailwind">Utility-first CSS</a> &gt; BEM vs SMACSS vs OOCSS
+## DOM
+- `appendChild` better than `innerHTML` only if you don't want content to lose events etc., innerHTML overall better for whole content rendering
 
 # Practices
 
@@ -76,19 +73,24 @@ if (true) {
 - Use semicolons, it's simply more popular (easier to copy code from documentations without need to adjust) and less error-prone.
 - Use trailing commas in arrays and after multiline object properties - it makes it easier to expand the code.
 
-# Performance
-- Fastest loop:
-```ts
-for (let i = array.length - 1; i >= 0; --i) {
+## Resources
 
-}
-```
-- `for of` better than `forEach`
+### Typescript
+- <strong><a href="https://github.com/torokmark/design_patterns_in_typescript" target="_blank" alt="typescript design patterns">Design patterns</a></strong>
 
-## DOM
-- `appendChild` better than `innerHTML` only if you don't want content to lose events etc., innerHTML overall better for whole content rendering
+### Node.js
 
-# Windows Initial Setup
+### Angular
+- <strong><a href="https://malcoded.com/posts/angular-fundamentals-modules" target="_blank" alt="angular modules explained">Angular Modules</a></strong> - definitions of angular modules `declaration`, `imports`, `providers` and `exports`.
+- <strong><a href="https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7" target="_blank" alt="angular a
+    pplication structure">Application Structure</a></strong> - angular or any other module-based application directory structure.
+
+### Other
+- <a href="http://chir.ag/projects/name-that-color/#722E75" target="_blank" alt="tool for color naming">Color naming</a>
+- <strong><a href="https://graphql.org/learn/authorization/" target="_blank" alt="angular modules explained">GraphQL authorization</a></strong>
+- <a href="https://tailwindcss.com/docs/" target="_blank" alt="utility first tailwind">Utility-first CSS</a> &gt; BEM vs SMACSS vs OOCSS
+
+# Windows Setup
 
 ## Utility
 - <a href="https://www.7-zip.org/" target="_blank">7-zip</a>
