@@ -78,6 +78,7 @@ for (let i = array.length - 1; i >= 0; --i) {
   - <a href="https://www.videolan.org/" target="_blank">VLC Media Player</a>
 
 ## System
+  - BIOS (F10 during system boot): enable Virtualization Technology (VT)
   - <a href="https://www.fontsquirrel.com/fonts/fira-code" target="_blank">FiraCode Font</a>
   - Windows Subsystem Linux Ubuntu (Microsoft Store)
 
