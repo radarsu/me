@@ -93,8 +93,11 @@ for (let i = array.length - 1; i >= 0; --i) {
   - <a href="https://notepad-plus-plus.org/download/" target="_blank">Nodepad++</a> [set all text-files to be opened by default]
   - <a href="https://code.visualstudio.com/insiders/" target="_blank">VS CODE Insiders</a>
 
-## Node
+## Git, Node & Npm
   - `npm i -g eslint lerna nodemon nps pm2 ts-node tslint typescript`
+  - `npm login`
+  - `git config --global user.name "Artur Kurowski"
+  - `git config --global user.email "radarsu@gmail.com"`
 
 ## VS Code
   - Better comments
