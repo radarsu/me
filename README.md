@@ -10,8 +10,6 @@
 	The purpose of this repository is to share resources and setups interesting for TypeScript, Node.js and JavaScript full-stack developers.
 </p>
 
-# General
-
 ## Description
 Awesome repositories are usually targetted at certain things like - programming language, technology, books, etc. This one is composition of completely different stuff that's just personal, but might be useful for any full-stack developer interested in JavaScript, Node.js, Typescript and Angular - or simply working on same platform as I am (currently Windows).
 
@@ -22,7 +20,7 @@ Awesome repositories are usually targetted at certain things like - programming 
 - [Resources](#resources)
 - [Windows Setup](#windows-setup)
 
-## Community
+# Community
 - <strong><a href="https://gitter.im/" target="_blank" alt="gitter">Gitter</a></strong> - if you ever looked for a programmers chat where you could post a question and instantly get an answer (not like <a href="https://stackoverflow.com" target="_blank" alt="stackoverflow">stackoverflow</a>), I recommend joining channels: 
   - <strong><a href="https://gitter.im/Microsoft/TypeScript" target="_blank" alt="typescript gitter">TypeScript</a></strong>
   - <strong><a href="https://gitter.im/angular/angular" target="_blank" alt="angular gitter">Angular</a></strong>
@@ -73,19 +71,19 @@ if (true) {
 - Use semicolons, it's simply more popular (easier to copy code from documentations without need to adjust) and less error-prone.
 - Use trailing commas in arrays and after multiline object properties - it makes it easier to expand the code.
 
-## Resources
+# Resources
 
-### Typescript
+## Typescript
 - <strong><a href="https://github.com/torokmark/design_patterns_in_typescript" target="_blank" alt="typescript design patterns">Design patterns</a></strong>
 
-### Node.js
+## Node.js
 
-### Angular
+## Angular
 - <strong><a href="https://malcoded.com/posts/angular-fundamentals-modules" target="_blank" alt="angular modules explained">Angular Modules</a></strong> - definitions of angular modules `declaration`, `imports`, `providers` and `exports`.
 - <strong><a href="https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7" target="_blank" alt="angular a
     pplication structure">Application Structure</a></strong> - angular or any other module-based application directory structure.
 
-### Other
+## Other
 - <a href="http://chir.ag/projects/name-that-color/#722E75" target="_blank" alt="tool for color naming">Color naming</a>
 - <strong><a href="https://graphql.org/learn/authorization/" target="_blank" alt="angular modules explained">GraphQL authorization</a></strong>
 - <a href="https://tailwindcss.com/docs/" target="_blank" alt="utility first tailwind">Utility-first CSS</a> &gt; BEM vs SMACSS vs OOCSS
