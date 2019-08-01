@@ -117,3 +117,14 @@ for (let i = array.length - 1; i >= 0; --i) {
   - Toggle quotes
   - TSlint
   - TypeScript Hero
+  
+  ## .rc
+    - .zshrc
+      - Ending: 
+```
+# nvm
+[[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh
+
+# docker
+export DOCKER_HOST=localhost:2375
+```
