@@ -24,9 +24,9 @@ Awesome repositories are usually targetted at certain things like - programming 
   - [Naming](#naming)
   - [Other](#other)
 - [Resources](#resources)
-  - [TypeScript](#comments)
-  - [NodeJS](#nodejs)
   - [Angular](#angular)
+  - [NodeJS](#nodejs)
+  - [TypeScript](#comments)
   - [Other](#other)
 - [Windows Setup](#windows-setup)
   - [Tools](#tools)
@@ -97,15 +97,12 @@ if (true) {
 
 # Resources
 
-## Typescript
-- <strong><a href="https://github.com/torokmark/design_patterns_in_typescript" target="_blank" alt="typescript design patterns">Design patterns</a></strong>
-
-## Node.js
-
 ## Angular
 - <strong><a href="https://malcoded.com/posts/angular-fundamentals-modules" target="_blank" alt="angular modules explained">Angular Modules</a></strong> - definitions of angular modules `declaration`, `imports`, `providers` and `exports`.
-- <strong><a href="https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7" target="_blank" alt="angular a
-    pplication structure">Application Structure</a></strong> - angular or any other module-based application directory structure.
+- <strong><a href="https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7" target="_blank" alt="angular application structure">Application Structure</a></strong> - angular or any other module-based application directory structure.
+
+## Typescript
+- <strong><a href="https://github.com/torokmark/design_patterns_in_typescript" target="_blank" alt="typescript design patterns">Design patterns</a></strong>
 
 ## Other
 - <a href="http://chir.ag/projects/name-that-color/#722E75" target="_blank" alt="tool for color naming">Color naming</a>
@@ -133,15 +130,18 @@ if (true) {
 ## Windows Subsystem Linux
 - `sudo apt install build-essential docker docker-compose make`
 - zsh, slimzsh & oh my zsh
-  
+
 ## Windows PowerShell
 - Turn on Hyper-V for Docker: `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All`
 
 ## Git, Node, Npm
-- `npm i -g eslint lerna nodemon nps pm2 prettier ts-node tldr tslint typescript windows-build-tools webpack`
-- `npm login`
-- `git config --global user.name "Artur Kurowski"`
-- `git config --global user.email "radarsu@gmail.com"`
+`npm i -g eslint lerna nodemon nps pm2 prettier ts-node tldr tslint typescript windows-build-tools webpack`
+
+`npm login`
+
+`git config --global user.name "Artur Kurowski"`
+
+`git config --global user.email "radarsu@gmail.com"`
 
 ## Docker
 - Settings: `Expose deamon on tcp://localhost:2375 without TLS`  
@@ -161,7 +161,7 @@ if (true) {
 - TSlint
 - TypeScript Hero
  
-## Run Commands (.rc)
+## Run Commands
 - .zshrc
   - Ending: 
 ```
