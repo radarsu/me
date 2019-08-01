@@ -30,7 +30,7 @@ Awesome repositories are usually targetted at certain things like - programming 
 
 ## Practices
 - `// short comments lowercase`
-- `/* Star comments upperFirst with a dot in the end. */`
+- `/* Start comments upperFirst with a dot in the end. */`
 - Place a line breaks before and after "comment block":
 ```ts
 if (true) {
