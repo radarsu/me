@@ -88,7 +88,7 @@ if (true) {
 - <strong>Page vs View</strong> - use view, as sometimes one page/view may be part of another one (also it's part of MVC).
 - <strong>Node.js vs NodeJS</strong> - Node.js, it's how it stands at their official page.
 
-## Other
+## Other Practices
 - <strong>Convention over Configuration</strong> - prefer naming convetions over configuration of stuff. It often allows you to skip a lot of redundant code and data.
 - When there is no certain logical order in elements, object keys or function call order - sort everything alphabetically.
 - Use semicolons, it's simply more popular (easier to copy code from documentations without need to adjust) and less error-prone.
@@ -103,7 +103,7 @@ if (true) {
 ## Typescript
 - <strong><a href="https://github.com/torokmark/design_patterns_in_typescript" target="_blank" alt="typescript design patterns">Design patterns</a></strong>
 
-## Other
+## Other Resources
 - <a href="http://chir.ag/projects/name-that-color/#722E75" target="_blank" alt="tool for color naming">Color naming</a>
 - <strong><a href="https://graphql.org/learn/authorization/" target="_blank" alt="angular modules explained">GraphQL authorization</a></strong>
 - <a href="https://tailwindcss.com/docs/" target="_blank" alt="utility first tailwind">Utility-first CSS</a> &gt; BEM vs SMACSS vs OOCSS
