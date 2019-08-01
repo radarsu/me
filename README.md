@@ -118,7 +118,7 @@ for (let i = array.length - 1; i >= 0; --i) {
   - TSlint
   - TypeScript Hero
   
-  ## .rc
+## Run Commands (.rc)
   - .zshrc
     - Ending: 
 ```
