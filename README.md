@@ -100,6 +100,9 @@ for (let i = array.length - 1; i >= 0; --i) {
   - `git config --global user.name "Artur Kurowski"`
   - `git config --global user.email "radarsu@gmail.com"`
 
+## Docker
+  - Settings: `Expose deamon on tcp://localhost:2375 without TLS`  
+
 ## VS Code
   - Better comments
   - Bracker Pair Colorizer 2
