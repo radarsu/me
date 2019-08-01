@@ -91,7 +91,7 @@ zsh, slimzsh & oh my zsh
   - VS CODE Insiders
 
 ## Node
-`npm i -g eslint lerna nodemon nps pm2 tslint`
+`npm i -g eslint lerna nodemon nps pm2 ts-node tslint typescript`
 
 ## VS Code
   - Better comments
