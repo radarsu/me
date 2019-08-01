@@ -96,7 +96,7 @@ for (let i = array.length - 1; i >= 0; --i) {
 ## Git, Node & Npm
   - `npm i -g eslint lerna nodemon nps pm2 ts-node tslint typescript`
   - `npm login`
-  - `git config --global user.name "Artur Kurowski"
+  - `git config --global user.name "Artur Kurowski"`
   - `git config --global user.email "radarsu@gmail.com"`
 
 ## VS Code
