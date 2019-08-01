@@ -25,7 +25,6 @@ Awesome repositories are usually targetted at certain things like - programming 
   - [Other](#other)
 - [Resources](#resources)
   - [Angular](#angular)
-  - [NodeJS](#nodejs)
   - [TypeScript](#comments)
   - [Other](#other)
 - [Windows Setup](#windows-setup)
