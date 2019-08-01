@@ -119,8 +119,8 @@ for (let i = array.length - 1; i >= 0; --i) {
   - TypeScript Hero
   
   ## .rc
-    - .zshrc
-      - Ending: 
+  - .zshrc
+    - Ending: 
 ```
 # nvm
 [[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh
