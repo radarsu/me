@@ -70,39 +70,39 @@ for (let i = array.length - 1; i >= 0; --i) {
 # Windows Initial Setup
 
 ## Utility
-7-zip
-Filezilla
-Google Chrome
-Greenshot
-Microsoft Office
-VLC Media Player
+  - 7-zip
+  - Filezilla
+  - Google Chrome
+  - Greenshot
+  - Microsoft Office
+  - VLC Media Player
 
 ## System
-FiraCode Font
-Windows Subsystem Linux Ubuntu
+  - FiraCode Font
+  - Windows Subsystem Linux Ubuntu
 
 ## Shell (Windows Subsystem Linux)
-sudo apt install make build-essential
+`sudo apt install make build-essential`
 zsh, slimzsh & oh my zsh
 
 ## Development
-Nodepad++ [set all text-files to be opened by default]
-VS CODE Insiders
+  - Nodepad++ [set all text-files to be opened by default]
+  - VS CODE Insiders
 
 ## Node
-npm i -g eslint lerna nodemon nps pm2 tslint
+`npm i -g eslint lerna nodemon nps pm2 tslint`
 
 ## VS Code
-Better comments
-Bracker Pair Colorizer 2
-Cobalt2
-ESlint
-Gitlens
-Markdown all in one
-Material Icon Theme
-Prettier
-Remove Development
-Sort js object keys
-Toggle quotes
-TSlint
-TypeScript Hero
+  - Better comments
+  - Bracker Pair Colorizer 2
+  - Cobalt2
+  - ESlint
+  - Gitlens
+  - Markdown all in one
+  - Material Icon Theme
+  - Prettier
+  - Remove Development
+  - Sort js object keys
+  - Toggle quotes
+  - TSlint
+  - TypeScript Hero
