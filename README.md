@@ -68,11 +68,11 @@ for (let i = array.length - 1; i >= 0; --i) {
 ```ts
 if (true) {
 
-	// comment
-	doSomething();
+    // comment
+    doSomething();
 
-	// next comment
-	doSomethingElse();
+    // next comment
+    doSomethingElse();
 
     // except for return
     return noLineBreakAfterMe();
