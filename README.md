@@ -131,7 +131,6 @@ if (true) {
 
 ## Windows Subsystem Linux
 - `sudo apt install build-essential docker docker-compose make`
-- zsh, slimzsh & oh my zsh
 
 ## Windows PowerShell
 - Turn on Hyper-V for Docker: `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All`
