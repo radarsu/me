@@ -137,7 +137,7 @@ if (true) {
 - Turn on Hyper-V for Docker: `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All`
 
 ## Git, Node, Npm
-`npm i -g eslint lerna lint-staged nodemon nps pm2 prettier ts-node tldr tslint typescript windows-build-tools webpack`
+`npm i -g eslint lerna lint-staged nodemon nps pm2 prettier prettier-eslint-cli ts-node tldr tslint typescript windows-build-tools webpack`
 
 `npm login`
 
