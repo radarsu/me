@@ -90,9 +90,10 @@ if (true) {
 
 ## Other Practices
 - <strong>Convention over Configuration</strong> - prefer naming convetions over configuration of stuff. It often allows you to skip a lot of redundant code and data.
-- When there is no certain logical order in elements, object keys or function call order - sort everything alphabetically.
-- Use semicolons, it's simply more popular (easier to copy code from documentations without need to adjust) and less error-prone.
+- Line length 120 is reasonable size (good for PC and laptops with 1920x1080 resolution).
 - Use trailing commas in arrays and after multiline object properties - it makes it easier to expand the code.
+- Use semicolons, it's simply more popular (easier to copy code from documentations without need to adjust) and less error-prone.
+- When there is no certain logical order in elements, object keys or function call order - sort everything alphabetically.
 
 # Resources
 
