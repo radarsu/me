@@ -122,8 +122,10 @@ if (true) {
 - <a href="https://downloads.mongodb.com/compass/mongodb-compass-1.18.0-win32-x64.msi" target="_blank">MongoDB Compass</a>
 - <a href="https://notepad-plus-plus.org/download/" target="_blank">Nodepad++</a> [set all text-files to be opened by default]
 - <a href="https://code.visualstudio.com/insiders/" target="_blank">VS CODE Insiders</a>
-  - <a href="https://napiprojekt.pl/download/" target="_blank">NapiProjekt</a>
-  - <a href="https://www.videolan.org/" target="_blank">VLC Media Player</a>
+
+### Fun
+- <a href="https://napiprojekt.pl/download/" target="_blank">NapiProjekt</a>
+- <a href="https://www.videolan.org/" target="_blank">VLC Media Player</a>
 
 ## System
 - BIOS (F10 during system boot): enable Virtualization Technology (VT)
