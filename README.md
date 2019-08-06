@@ -166,15 +166,14 @@ if (true) {
 - TypeScript Hero
  
 ## Run Commands
-- .zshrc
+- .bashrc
   - Ending: 
 ```
 # nvm
-[[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # docker
 export DOCKER_HOST=localhost:2375
-
-# npm
-export NPM_TOKEN="23c31450-5b72-4479-bde3-4e5df50da2d9"
 ```
