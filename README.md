@@ -176,4 +176,7 @@ export NVM_DIR="$HOME/.nvm"
 
 # docker
 export DOCKER_HOST=localhost:2375
+
+# npm
+export NPM_TOKEN="XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
 ```
