@@ -83,10 +83,10 @@ if (true) {
 - **Attribute vs Property** - attribute for xml, properties for objects.
 - **Common vs Shared vs Partials** - common for library names, shared for directory name, don't use partials.
 - **Configuration vs Options vs Preferences vs Settings**
-  - **Configuration** - for internal system (for example: **webpack.config.js**, **ecosystem.config.js**).
-  - **Options** - for others choices (especially other developers, for example: **\<radarsu-web-component options=""\>**).
-  - **Settings** - for system-administrating end-user (for example: **admin dashboard**)
-  - **Preferences** - for end-user (for example: **website visitor**).
+  - **Configuration** - for internal system (for example: `webpack.config.js`, `ecosystem.config.js`).
+  - **Options** - for others choices (especially other developers, for example: `<radarsu-web-component options=""\>`).
+  - **Settings** - for system-administrating end-user (for example: `admin dashboard`)
+  - **Preferences** - for end-user (for example: `website visitor`).
 - **Controller vs Resolver vs Route** - controller for REST, resolver for GraphQL, route for analysis of url, query and params and pointing to one of previously listed.
 - **Entity vs Model** - use model, as it's part of MVC naming.
 - **Module vs Package** - module for internal stuff, package for external libraries.
