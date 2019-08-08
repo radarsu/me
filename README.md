@@ -80,25 +80,26 @@ if (true) {
 ```
 
 ## Naming
-- <strong>Attribute vs Property</strong> - attribute for xml, properties for objects.
-- <strong>Common vs Shared vs Partials</strong> - common for library names, shared for directory name, don't use partials.
-- <strong>Configuration vs Options vs Preferences vs Settings</strong>
-  - <strong>Configuration</strong> - for internal system (for example: **webpack.config.js**, **ecosystem.config.js**).
-  - <strong>Options</strong> - for others choices (especially other developers, for example: **\<radarsu-web-component options=""\>**).
-  - <strong>Settings</strong> - for system-administrating end-user (for example: **admin dashboard**)
-  - <strong>Preferences</strong> - for end-user (for example: **website visitor**).
-- <strong>Controller vs Resolver vs Route</strong> - controller for REST, resolver for GraphQL, route for analysis of url, query and params and pointing to one of previously listed.
-- <strong>Entity vs Model</strong> - use model, as it's part of MVC naming.
-- <strong>Module vs Package</strong> - module for internal stuff, package for external libraries.
-- <strong>Page vs View</strong> - use view, as sometimes one page/view may be part of another one (also it's part of MVC).
-- <strong>Node.js vs NodeJS</strong> - Node.js, it's how it stands at their official page.
+- **Attribute vs Property** - attribute for xml, properties for objects.
+- **Common vs Shared vs Partials** - common for library names, shared for directory name, don't use partials.
+- **Configuration vs Options vs Preferences vs Settings**
+  - **Configuration** - for internal system (for example: **webpack.config.js**, **ecosystem.config.js**).
+  - **Options** - for others choices (especially other developers, for example: **\<radarsu-web-component options=""\>**).
+  - **Settings** - for system-administrating end-user (for example: **admin dashboard**)
+  - **Preferences** - for end-user (for example: **website visitor**).
+- **Controller vs Resolver vs Route** - controller for REST, resolver for GraphQL, route for analysis of url, query and params and pointing to one of previously listed.
+- **Entity vs Model** - use model, as it's part of MVC naming.
+- **Module vs Package** - module for internal stuff, package for external libraries.
+- **Page vs View** - use view, as sometimes one page/view may be part of another one (also it's part of MVC).
+- **Node.js vs NodeJS** - Node.js, it's how it stands at their official page.
 
 ## Other Practices
-- <strong>Convention over Configuration</strong> - prefer naming convetions over configuration of stuff. It often allows you to skip a lot of redundant code and data.
-- Line length 120 is reasonable size (good for PC and laptops with 1920x1080 resolution).
-- Use trailing commas in arrays and after multiline object properties - it makes it easier to expand the code.
-- Use semicolons, it's simply more popular (easier to copy code from documentations without need to adjust) and less error-prone.
-- When there is no certain logical order in elements, object keys or function call order - sort everything alphabetically.
+- **Convention over Configuration** - prefer naming convetions over configuration of stuff. It often allows you to skip a lot of redundant code and data.
+- **Line length 120** is reasonable size (good for PC and laptops with 1920x1080 resolution).
+- **Use trailing commas** in arrays and after multiline object properties - it makes it easier to expand the code.
+- **Use semicolons**, it's simply more popular (easier to copy code from documentations without need to adjust) and less error-prone.
+- **Sort everything alphabetically** - When there is no certain logical order in elements, object keys or function call order.
+- `<strong><a>link</a></strong>` > `<a><strong>link</strong></a>`
 
 # Resources
 
