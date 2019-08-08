@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<strong>Personal version of <a href="https://github.com/sindresorhus/awesome" target="_blank" alt="awesome">Awesome</a>, best practices & setups.</strong>
+	<strong>Personal version of <a href="https://github.com/sindresorhus/awesome" target="_blank" alt="awesome">Awesome</a>, best practices and setups.</strong>
 </p>
 
 <p align="center">
