@@ -128,12 +128,14 @@ if (true) {
 - <a href="https://www.google.com/intl/en/chrome/" target="_blank">Google Chrome</a>
 - <a href="https://getgreenshot.org/" target="_blank">Greenshot</a>
 - Microsoft Office
-- <a href="https://downloads.mongodb.com/compass/mongodb-compass-1.18.0-win32-x64.msi" target="_blank">MongoDB Compass</a>
+- <a href="https://downloads.mongodb.com/compass/mongodb-compass-1.18.0-win32-x64.msi" target="_blank">MongoDB Compass (win-64bit)</a>
 - <a href="https://notepad-plus-plus.org/download/" target="_blank">Nodepad++</a> [set all text-files to be opened by default]
+- <a href="https://www.getpostman.com/downloads/" target="_blank">Postman</a>
 - <a href="https://code.visualstudio.com/insiders/" target="_blank">VS CODE Insiders</a>
 
-### Fun
+### Fun/Optional
 - <a href="https://napiprojekt.pl/download/" target="_blank">NapiProjekt</a>
+- <a href="http://plantuml.com/download">PlantUML</a>
 - <a href="https://www.videolan.org/" target="_blank">VLC Media Player</a>
 
 ## System
