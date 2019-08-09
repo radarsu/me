@@ -122,7 +122,6 @@ if (true) {
 
 ## Tools
 - <a href="https://www.7-zip.org/" target="_blank">7-zip</a>
-- <a href="https://discordapp.com/download" target="_blank">Discord</a>
 - <a href="https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe" target="_blank">Docker for Windows</a>
 - <a href="https://filezilla-project.org/" target="_blank">Filezilla</a>
 - <a href="https://www.google.com/intl/en/chrome/" target="_blank">Google Chrome</a>
@@ -134,8 +133,10 @@ if (true) {
 - <a href="https://code.visualstudio.com/insiders/" target="_blank">VS CODE Insiders</a>
 
 ### Fun/Optional
+- <a href="https://discordapp.com/download" target="_blank">Discord</a>
 - <a href="https://napiprojekt.pl/download/" target="_blank">NapiProjekt</a>
 - <a href="http://plantuml.com/download">PlantUML</a>
+- <a href="https://slack.com/intl/en-de/downloads/windows">Slack</a>
 - <a href="https://www.videolan.org/" target="_blank">VLC Media Player</a>
 
 ## System
