@@ -133,6 +133,7 @@ if (true) {
 - <a href="https://code.visualstudio.com/insiders/" target="_blank">VS CODE Insiders</a>
 
 ### Fun/Optional
+- <a href="https://www.bittorrent.com/lang/pl/">BitTorrent</a>
 - <a href="https://discordapp.com/download" target="_blank">Discord</a>
 - <a href="https://napiprojekt.pl/download/" target="_blank">NapiProjekt</a>
 - <a href="http://plantuml.com/download">PlantUML</a>
