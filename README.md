@@ -145,7 +145,7 @@ if (true) {
 - BIOS (F10 during system boot): enable Virtualization Technology (VT)
 - <a href="https://www.fontsquirrel.com/fonts/fira-code" target="_blank">FiraCode Font</a>
 - Windows Subsystem Linux Ubuntu (Microsoft Store)
-- At `C:\Windows\System32\drivers\etc` add `127.0.0.1 localhost.radrat.pl`
+- At `C:\Windows\System32\drivers\etc\hosts` add `127.0.0.1 localhost.radrat.pl`
 
 ## Windows Subsystem Linux
 - `sudo apt install build-essential docker docker-compose make`
