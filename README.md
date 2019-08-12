@@ -90,6 +90,7 @@ if (true) {
   - **Preferences** - for end-user (for example: `website visitor`).
 - **Controller vs Resolver vs Route** - controller for REST, resolver for GraphQL, route for analysis of url, query and params and pointing to one of previously listed.
 - **Entity vs Model** - use model, as it's part of MVC naming.
+- **Helper vs Utility** - use utility as it is more common.
 - **Module vs Package** - module for internal stuff, package for external libraries.
 - **Page vs View** - use view, as sometimes one page/view may be part of another one (also it's part of MVC).
 - **Node.js vs NodeJS** - Node.js, it's how it stands at their official page.
