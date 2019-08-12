@@ -82,7 +82,7 @@ if (true) {
 ## Naming
 - **& vs And** - always use "and", leave "&" for brand names and programming.
 - **Attribute vs Property** - attribute for xml, properties for objects.
-- **Common vs Shared vs Partials** - common for library names, shared for directory name, don't use partials.
+- **Common vs Partials vs Shared** - common for library names, shared for directory name, don't use partials.
 - **Configuration vs Options vs Preferences vs Settings**
   - **Configuration** - for internal system (for example: `webpack.config.js`, `ecosystem.config.js`).
   - **Options** - for others choices (especially other developers, for example: `<radarsu-web-component options=""\>`).
