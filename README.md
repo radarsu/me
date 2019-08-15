@@ -103,6 +103,7 @@ if (true) {
 - **Use trailing commas** in arrays and after multiline object properties - it makes it easier to expand the code.
 - **Use semicolons**, it's simply more popular (easier to copy code from documentations without need to adjust) and less error-prone.
 - **Sort everything alphabetically** - When there is no certain logical order in elements, object keys or function call order.
+- **Stay close to the metal** - do not make unnecessary wrappers, abstractions. If you use some library internally for example in an object constructor, allow passing configuration data to the library in an unchanged manner.
 - `<strong><a>link</a></strong>` > `<a><strong>link</strong></a>`.
 
 # Resources
