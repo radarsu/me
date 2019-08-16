@@ -170,6 +170,7 @@ if (true) {
 ## VS Code
 - Better comments
 - Bracker Pair Colorizer 2
+- Browser Preview
 - Cobalt2
 - ESlint
 - Gitlens
