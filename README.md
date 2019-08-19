@@ -98,7 +98,7 @@ if (true) {
 
 ## Other Practices
 - **Convention over Configuration** - prefer naming convetions over configuration of stuff. It often allows you to skip a lot of redundant code and data.
-- **directory-naming** - use lowercase and dashes (kebab-case) for directory naming, never use `_` or `.` in directory naming.
+- **directory-naming** - use lowercase and dashes (kebab-case) for directory naming, never use `_` in directory naming. `.` is allowed for domain names.
 - **file.naming.convention** - `file-name.scope.extension` (for example: `user.model.ts`, `news.controller.ts`).
 - **Line length 120** is reasonable size (good for PC and laptops with 1920x1080 resolution).
 - **Use trailing commas** in arrays and after multiline object properties - it makes it easier to expand the code.
