@@ -203,7 +203,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # docker
-export DOCKER_HOST='tcp://0.0.0.0:2375'
+export DOCKER_HOST=tcp://0.0.0.0:2375
 
 # npm
 export NPM_TOKEN="XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
