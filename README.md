@@ -167,6 +167,15 @@ if (true) {
 ## Docker
 - Settings: `Expose deamon on tcp://localhost:2375 without TLS`  
 
+## Chrome
+- <a href="https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj" target="_blank">Node Inspector Manager</a>
+- <a href="https://chrome.google.com/webstore/detail/pop-up-blocker-for-chrome/bkkbcggnhapdmkeljlodobbkopceiche" target="_blank">Pop up blocker</a>
+- <a href="https://chrome.google.com/webstore/detail/red-labels-for-pivotal-tr/agijkohaieagbidlmjjlajhlkpfoegao" target="_blank">Red Labels for Pivotal Tracker</a>
+- <a href="https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd" target="_blank">Redux DevTools</a>
+- <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank">Tampermonkey</a>
+- <a href="https://chrome.google.com/webstore/detail/ublock-plus-adblocker/oofnbdifeelbaidfgpikinijekkjcicg" target="_blank">uBlock Plus Adblocker</a>
+- <a href="https://chrome.google.com/webstore/detail/youtube-nonstop/nlkaejimjacpillmajjnopmpbkbnocid?hl=pl" target="_blank">YouTube NonStop</a>
+
 ## VS Code
 - Better comments
 - Bracker Pair Colorizer 2
