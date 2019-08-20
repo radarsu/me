@@ -187,7 +187,7 @@ if (true) {
 - Markdown all in one
 - Material Icon Theme
 - Prettier
-- Remove Development
+- Remote Development
 - Sort js object keys
 - Toggle quotes
 - TSlint
