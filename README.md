@@ -133,7 +133,7 @@ if (true) {
 - <a href="https://downloads.mongodb.com/compass/mongodb-compass-1.18.0-win32-x64.msi" target="_blank">MongoDB Compass (win-64bit)</a>
 - <a href="https://notepad-plus-plus.org/download/" target="_blank">Nodepad++</a> [set all text-files to be opened by default]
 - <a href="https://www.getpostman.com/downloads/" target="_blank">Postman</a>
-- <a href="https://code.visualstudio.com/insiders/" target="_blank">VS CODE Insiders</a>
+- <a href="https://code.visualstudio.com/download/" target="_blank">VS Code</a>
 
 ### Optional
 - <a href="https://www.bittorrent.com/lang/pl/">BitTorrent</a>
