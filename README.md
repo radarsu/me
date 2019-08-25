@@ -183,6 +183,7 @@ if (true) {
 - Bracker Pair Colorizer 2
 - Browser Preview
 - Cobalt2
+- Editorconfig for VS Code
 - ESlint
 - Gitlens
 - Markdown all in one
