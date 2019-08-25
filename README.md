@@ -186,6 +186,7 @@ if (true) {
 - Editorconfig for VS Code
 - ESlint
 - Gitlens
+- GraphQL
 - Markdown all in one
 - Material Icon Theme
 - Prettier
