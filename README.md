@@ -81,8 +81,10 @@ if (true) {
 ```
 
 ## Naming
-- **& vs And** - always use "and", leave "&" for brand names and programming.
+- **& vs And** - prefer "and", leave "&" for brand names and programming actions.
+- **Add vs Create** - prefer "add". It's more intuitive for non-programmers.
 - **Attribute vs Property** - attribute for xml, properties for objects.
+- **Change vs Modify vs Update** - prefer "update". It's more standard.
 - **Common vs Partials vs Shared** - common for library names, shared for directory name, don't use partials.
 - **Configuration vs Options vs Preferences vs Settings**
   - **Configuration** - for internal system (for example: `webpack.config.js`, `ecosystem.config.js`).
@@ -90,6 +92,7 @@ if (true) {
   - **Settings** - for system-administrating end-user (for example: `admin dashboard`)
   - **Preferences** - for end-user (for example: `website visitor`).
 - **Controller vs Resolver vs Route** - controller for REST, resolver for GraphQL, route for analysis of url, query and params and pointing to one of previously listed.
+- **Delete vs Remove** - prefer "remove". It's more intuitive for non-programmers.
 - **Entity vs Model** - use model, as it's part of MVC naming.
 - **Helper vs Utility** - use utility as it is more common.
 - **Module vs Package** - module for internal stuff, package for external libraries.
