@@ -82,6 +82,7 @@ if (true) {
 
 ## Naming
 - **& vs And** - prefer "and", leave "&" for brand names and programming actions.
+- **0.0.0 vs 1.0.0** - start development with `0.0.0` version, use `1.0.0` for first working release.
 - **Add vs Create** - prefer "add". It's more intuitive for non-programmers.
 - `app.js` **vs** `index.js` **vs** `main.js` **vs** `server.js`** - prefer `main.js` for an entry file, as it is chosen by Angular and NestJS. Leave index for `index.html` and default exporting via `index.js`.
 - **Attribute vs Property** - attribute for xml, properties for objects.
