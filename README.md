@@ -83,7 +83,7 @@ if (true) {
 ## Naming
 - **& vs And** - prefer "and", leave "&" for brand names and programming actions.
 - **Add vs Create** - prefer "add". It's more intuitive for non-programmers.
-- `app.js` **vs** `index.js` **vs** `main.js` **vs** `server.js`** - prefer `index.js`.
+- `app.js` **vs** `index.js` **vs** `main.js` **vs** `server.js`** - prefer `main.js` for an entry file, as it is chosen by Angular and NestJS. Leave index for `index.html` and default exporting.
 - **Attribute vs Property** - attribute for xml, properties for objects.
 - **Change vs Modify vs Update** - prefer "update". It's more standard.
 - **Common vs Partials vs Shared** - common for library names, shared for directory name, don't use partials.
