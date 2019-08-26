@@ -104,7 +104,7 @@ if (true) {
 - **Convention over Configuration** - prefer naming convetions over configuration of stuff. It often allows you to skip a lot of redundant code and data.
 - **directory-naming** - use lowercase and dashes (kebab-case) for directory naming, never use `_` in directory naming. `.` is allowed for domain names.
 - **file.naming.convention** - `file-name.scope.extension` (for example: `user.model.ts`, `news.controller.ts`).
-- **Line length 120** is reasonable size (good for PC and laptops with 1920x1080 resolution).
+- **Line length 150** is reasonable size (good for PC and laptops with 1920x1080 resolution). Eventually use 120.
 - **Use trailing commas** in arrays and after multiline object properties - it makes it easier to expand the code.
 - **Use semicolons**, it's simply more popular (easier to copy code from documentations without need to adjust) and less error-prone.
 - **Sort everything alphabetically** - When there is no certain logical order in elements, object keys or function call order.
