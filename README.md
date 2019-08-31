@@ -101,6 +101,8 @@ if (true) {
 - **Page vs View** - use view, as sometimes one page/view may be part of another one (also it's part of MVC).
 - **Node.js vs NodeJS** - Node.js, it's how it stands at their official page.
 
+For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&feature=youtu.be&fbclid=IwAR08aUXhJ0AInlDnmIs2mnkPESOaro9B0hGFmMgVynQXbMvaVATE5o6If6U" target="_blank">How to name things in programming?</a>.
+
 ## Other Practices
 - **Convention over Configuration** - prefer naming convetions over configuration of stuff. It often allows you to skip a lot of redundant code and data.
 - **directory-naming** - use lowercase and dashes (kebab-case) for directory naming, never use `_` in directory naming. `.` is allowed for domain names.
