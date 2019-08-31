@@ -97,7 +97,7 @@ if (true) {
 - **createdAt vs creationDate** - prefer "createdAt" over "creationDate". It's shorter and more common.
 - **Delete vs Remove** - prefer "remove". It's more intuitive for non-programmers.
 - **Entity vs Model** - use model, as it's part of MVC naming.
-- **Helper vs Utility** - use utility as it is more common.
+- **Helper, Handler, Manager** - don't use those at all. They carry no meaning.
 - **Module vs Package** - module for internal stuff, package for external libraries.
 - **Page vs View** - use view, as sometimes one page/view may be part of another one (also it's part of MVC).
 - **Node.js vs NodeJS** - Node.js, it's how it stands at their official page.
