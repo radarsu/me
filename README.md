@@ -94,6 +94,7 @@ if (true) {
   - **Settings** - for system-administrating end-user (for example: `admin dashboard`)
   - **Preferences** - for end-user (for example: `website visitor`).
 - **Controller vs Resolver vs Route** - controller for REST, resolver for GraphQL, route for analysis of url, query and params and pointing to one of previously listed.
+- **createdAt vs creationDate** - prefer "createdAt" over "creationDate". It's shorter and more common.
 - **Delete vs Remove** - prefer "remove". It's more intuitive for non-programmers.
 - **Entity vs Model** - use model, as it's part of MVC naming.
 - **Helper vs Utility** - use utility as it is more common.
