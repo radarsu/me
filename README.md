@@ -108,6 +108,7 @@ For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&fea
 ## Other Practices
 - **Convention over Configuration** - prefer naming convetions over configuration of stuff. It often allows you to skip a lot of redundant code and data.
 - **directory-naming** - use lowercase and dashes (kebab-case) for directory naming, never use `_` in directory naming. `.` is allowed for domain names.
+- **Export everything** - when writing modules export almost everything except highly private functions. You never know what somebody would like to reuse or hack into.
 - **file.naming.convention** - `file-name.scope.extension` (for example: `user.model.ts`, `news.controller.ts`).
 - **Line length 150** is reasonable size (good for PC and laptops with 1920x1080 resolution). Eventually use 120.
 - **Port practices**
