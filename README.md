@@ -115,6 +115,7 @@ For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&fea
   - 5000-5999 - production.
   - 6000-6999 - development.
   - 7000-7999 - testing.
+- **Prefix interfaces** - prefer ISomeInterface over SomeInterface. TypeScript guidelines are against that, but that practice is actually very useful and stops you from common mistakes of trying to instantiate interfaces.
 - **Use trailing commas** in arrays and after multiline object properties - it makes it easier to expand the code.
 - **Use semicolons**, it's simply more popular (easier to copy code from documentations without need to adjust) and less error-prone.
 - **Sort everything alphabetically** - When there is no certain logical order in elements, object keys or function call order.
