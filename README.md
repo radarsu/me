@@ -100,6 +100,7 @@ if (true) {
 - **Helper, Handler, Manager** - don't use those at all. They carry no meaning.
 - **Module vs Package** - module for internal stuff, package for external libraries.
 - **Page vs View** - use view, as sometimes one page/view may be part of another one (also it's part of MVC).
+- **Spec vs Test** - use spec, used by Angular and Google. Leave "test" for manual testing.
 - **Node.js vs NodeJS** - Node.js, it's how it stands at their official page.
 
 For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&feature=youtu.be&fbclid=IwAR08aUXhJ0AInlDnmIs2mnkPESOaro9B0hGFmMgVynQXbMvaVATE5o6If6U" target="_blank">How to name things in programming?</a>.
