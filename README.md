@@ -85,6 +85,7 @@ if (true) {
 - **0.0.0 vs 1.0.0** - start development with `0.0.0` version, use `1.0.0` for first working release.
 - **Add vs Create** - prefer "add". It's more intuitive for non-programmers.
 - `app.js` **vs** `index.js` **vs** `main.js` **vs** `server.js`** - prefer `main.js` for an entry file, as it is chosen by Angular and NestJS. Leave index for `index.html` and default exporting via `index.js`.
+- **Argument vs Parameter** - use params for method parameters, leave arguments for command line.
 - **Attribute vs Property** - attribute for xml, properties for objects.
 - **Change vs Modify vs Update** - prefer "update". It's more standard.
 - **Common vs Partials vs Shared** - common for library names, shared for directory name, don't use partials.
@@ -111,6 +112,7 @@ For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&fea
 - **Export everything** - when writing modules export almost everything except highly private functions. You never know what somebody would like to reuse or hack into.
 - **file.naming.convention** - `file-name.scope.extension` (for example: `user.model.ts`, `news.controller.ts`).
 - **Line length 150** is reasonable size (good for PC and laptops with 1920x1080 resolution). Eventually use 120.
+- **Single method argument** - 
 - **Port practices**
   - <1000, 1337, 3000, 4200, 8080-9999 - do not use those, they're commonly used.
   - 5000-5999 - production.
