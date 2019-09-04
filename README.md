@@ -109,6 +109,12 @@ For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&fea
 - **directory-naming** - use lowercase and dashes (kebab-case) for directory naming, never use `_` in directory naming. `.` is allowed for domain names.
 - **file.naming.convention** - `file-name.scope.extension` (for example: `user.model.ts`, `news.controller.ts`).
 - **Line length 150** is reasonable size (good for PC and laptops with 1920x1080 resolution). Eventually use 120.
+- **Port practices**
+  - <1000, 1337, 3000, 4200, 8080-8999 - do not use those, they're commonly used.
+  - 5000-5999 - production.
+  - 6000-6999 - development.
+  - 7000-7999 - testing.
+  - 9000-9999 - others.
 - **Use trailing commas** in arrays and after multiline object properties - it makes it easier to expand the code.
 - **Use semicolons**, it's simply more popular (easier to copy code from documentations without need to adjust) and less error-prone.
 - **Sort everything alphabetically** - When there is no certain logical order in elements, object keys or function call order.
