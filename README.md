@@ -201,6 +201,7 @@ For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&fea
 - Bracker Pair Colorizer 2
 - Browser Preview
 - Cobalt2
+- Docker
 - Editorconfig for VS Code
 - ESlint
 - Gitlens
