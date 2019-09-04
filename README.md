@@ -112,7 +112,7 @@ For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&fea
 - **Export everything** - when writing modules export almost everything except highly private functions. You never know what somebody would like to reuse or hack into.
 - **file.naming.convention** - `file-name.scope.extension` (for example: `user.model.ts`, `news.controller.ts`).
 - **Line length 150** is reasonable size (good for PC and laptops with 1920x1080 resolution). Eventually use 120.
-- **Single method parameter** - prefer methods with single, complex parameter over multiple parameters - it's easier to refactor such method.
+- **Single method parameter** - prefer methods with single, complex parameter over multiple parameters - it's easier to refactor such method and keep backwards compatibility.
 - **Port practices**
   - <1000, 1337, 3000, 4200, 8080-9999 - do not use those, they're commonly used.
   - 5000-5999 - production.
