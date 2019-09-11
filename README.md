@@ -176,7 +176,7 @@ For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&fea
 - Turn on Hyper-V for Docker: `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All`
 
 ## Git, Node, Npm
-`npm i -g @angular/cli @nestjs/schematics eslint lerna lint-staged nodemon nps pm2 prettier prettier-eslint-cli ts-node tldr tslint typescript windows-build-tools webpack`
+`npm i -g @angular/cli @nestjs/schematics docusaurus-init eslint lerna lint-staged nodemon nps pm2 prettier prettier-eslint-cli ts-node tldr tslint typescript windows-build-tools webpack`
 
 `npm login`
 
