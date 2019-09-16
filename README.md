@@ -63,7 +63,7 @@ for (let i = array.length - 1; i >= 0; --i) {
 # Practices
 
 ## Comments
-- `// short comments lowercase`
+- `// Start comments upperFirst with a dot in the end.`
 - `/* Start comments upperFirst with a dot in the end. */`
 - Place a line breaks before and after "comment block" except for return:
 ```ts
