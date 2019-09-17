@@ -97,6 +97,7 @@ if (true) {
 - **Controller vs Resolver vs Route** - controller for REST, resolver for GraphQL, route for analysis of url, query and params and pointing to one of previously listed.
 - **createdAt vs creationDate** - prefer "createdAt" over "creationDate". It's shorter and more common.
 - **Delete vs Remove** - prefer "remove". It's more intuitive for non-programmers.
+- **Demo vs Showcase** - prefer "showcase".
 - **Entity vs Model** - use model, as it's part of MVC naming.
 - **Helper, Handler, Manager** - don't use those at all. They carry no meaning.
 - **Module vs Package** - module for internal stuff, package for external libraries.
