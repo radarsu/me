@@ -161,8 +161,8 @@ For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&fea
 - <a href="https://discordapp.com/download" target="_blank">Discord</a>
 - <a href="https://www.gimp.org/downloads/" target="_blank">GIMP</a>
 - <a href="https://napiprojekt.pl/download/" target="_blank">NapiProjekt</a>
-- <a href="https://protonvpn.com/download/" target="_blank">ProtonVPN</a>
 - <a href="http://plantuml.com/download">PlantUML</a>
+- <a href="https://protonvpn.com/download/" target="_blank">ProtonVPN</a>
 - <a href="https://slack.com/intl/en-de/downloads/windows">Slack</a>
 - <a href="https://www.videolan.org/" target="_blank">VLC Media Player</a>
 
