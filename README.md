@@ -150,7 +150,7 @@ For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&fea
 - <a href="https://www.google.com/intl/en/chrome/" target="_blank">Google Chrome</a>
 - <a href="https://getgreenshot.org/" target="_blank">Greenshot</a>
 - Microsoft Office
-- <a href="https://downloads.mongodb.com/compass/mongodb-compass-1.18.0-win32-x64.msi" target="_blank">MongoDB Compass (win-64bit)</a>
+- <a href="https://www.mongodb.com/download-center/compass" target="_blank">MongoDB Compass</a>
 - <a href="https://notepad-plus-plus.org/download/" target="_blank">Nodepad++</a> [set all text-files to be opened by default]
 - <a href="https://www.getpostman.com/downloads/" target="_blank">Postman</a>
 - <a href="https://github.com/Eugeny/terminus/releases/latest" target="_blank">Terminus</a>
