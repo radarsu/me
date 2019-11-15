@@ -208,6 +208,7 @@ For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&fea
 - Docker
 - Editorconfig for VS Code
 - ESlint
+- Git Graph
 - Gitlens
 - GraphQL
 - Markdown all in one
