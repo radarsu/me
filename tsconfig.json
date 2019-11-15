@@ -1,23 +1,21 @@
 {
-  "compilerOptions": {
-    "module": "commonjs",
-    "declaration": true,
-    "noImplicitAny": false,
-    "removeComments": true,
-    "noLib": false,
-    "allowSyntheticDefaultImports": true,
-    "emitDecoratorMetadata": true,
-    "experimentalDecorators": true,
-    "target": "es6",
-    "sourceMap": true,
-    "outDir": "./dist",
-    "baseUrl": "./src"
-  },
-  "include": [
-    "src/**/*"
-  ],
-  "exclude": [
-    "node_modules",
-    "**/*.spec.ts"
-  ]
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "declaration": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "lib": [],
+        "module": "commonjs",
+        "strict": true,
+        "outDir": "./dist",
+        "resolveJsonModule": true,
+        "sourceMap": true,
+        "target": "esnext"
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "files": [
+        "package.json"
+    ]
 }
