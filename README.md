@@ -119,7 +119,7 @@ For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&fea
 - **Port practices**
   - <1000, 1337, 3000, 4200, 8080-9999 - do not use those, they're commonly used.
   - 5001-5999 - production.
-  - 6001-6999 - development.
+  - 6001-6999 - development, except 6666.
   - 7001-7999 - testing.
 - **Prefix interfaces** - prefer ISomeInterface over SomeInterface. TypeScript guidelines are against that, but that practice is actually very useful and stops you from common mistakes of trying to instantiate interfaces.
 - **Use trailing commas** in arrays and after multiline object properties - it makes it easier to expand the code.
