@@ -209,6 +209,7 @@ For general rules watch <a href="https://www.youtube.com/watch?v=CjOR5gCCZpk&fea
 - Editorconfig for VS Code
 - ESlint
 - Git Graph
+- GitLab Workflow
 - Gitlens
 - GraphQL
 - Markdown all in one
