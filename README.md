@@ -89,7 +89,7 @@ if (true) {
 - **Async vs Defer** - prefer defer over async.
 - **Attribute vs Property** - attribute for xml, properties for objects.
 - **Change vs Modify vs Update** - prefer "update". It's more standard.
-- **Common vs Partials vs Shared** - common for library names, shared for directory name, don't use partials.
+- **Common vs Partials vs Shared** - common for library names, shared for directory name, don't use partials, except as part of file extension.
 - **Configuration vs Options vs Preferences vs Settings**
   - **Configuration** - for internal system (for example: `webpack.config.js`, `ecosystem.config.js`).
   - **Options** - for others choices (especially other developers, for example: `<radarsu-web-component options=""\>`).
